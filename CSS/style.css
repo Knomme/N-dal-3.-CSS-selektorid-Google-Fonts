@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lobster&display=swap');
+
+body {
+    background-color: rgb(61, 206, 17);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: rgb(84, 56, 241);
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+}
+
+.main {
+border: 3px solid rgb(255, 255, 255);
+width: 55%;
+margin: 0 auto;
+}
+
+.main div {
+height: 200px;
+width: 200px;
+border: 1px solid black;
+border-radius: 50%;
+margin: 2rem auto;
+}
+#red {
+border-color: red;
+}
+#yellow {
+border-color: yellow;
+}
+#green {
+    border-color: green;
+}
+
+.footer {
+    color: rgb(228, 19, 19);
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 1rem;
+}
